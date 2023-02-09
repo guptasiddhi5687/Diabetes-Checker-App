@@ -25,6 +25,4 @@ DiabetesPedigreeFunction: Diabetes pedigree function
 
 Age: Age (years)
 
-/n
-
 Outcome: Class variable (0 or 1)
